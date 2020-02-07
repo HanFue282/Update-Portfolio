@@ -13,3 +13,6 @@
 +AJAX (for some reason)
 +APIs
 +Moment.js
+
+# Image source(s)
+-https://www.pinterest.com/pin/478366791661324121/

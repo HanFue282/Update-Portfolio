@@ -1,0 +1,19 @@
+html, body {
+    background-image: url(star_background.jpg);
+}
+
+
+header {
+    background-color: gray;
+    color: white;
+    font-size: 68px;
+    margin: 0em;
+    padding: 15px;
+}
+
+.sub-header {
+    font-size: 40px;
+    color: white;
+}
+
+
