@@ -4,9 +4,8 @@ html, body {
 
 
 header {
-    background-color: gray;
+    background-color: rgb(39, 39, 39);
     color: white;
-    font-size: 68px;
     margin: 0em;
     padding: 15px;
 }
@@ -14,6 +13,35 @@ header {
 .sub-header {
     font-size: 40px;
     color: white;
+    opacity: 100%;
+}
+
+h1 {
+    display: inline-block;
+}
+
+nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
 }
 
 
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: rebeccapurple;
+}
+
+a:hover {
+    text-decoration: none;
+    color: plum;
+}
