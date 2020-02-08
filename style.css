@@ -1,5 +1,6 @@
 html, body {
     background-image: url(star_background.jpg);
+    font-family: 'Raleway', sans-serif;
 }
 
 
@@ -13,7 +14,10 @@ header {
 .sub-header {
     font-size: 40px;
     color: white;
-    opacity: 100%;
+    background-color: black;
+    padding-left: 20px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
 }
 
 h1 {
@@ -23,8 +27,8 @@ h1 {
 nav {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
     font-size: 20px;
+    text-align: end;
 }
 
 ul {
@@ -44,4 +48,16 @@ a {
 a:hover {
     text-decoration: none;
     color: plum;
+}
+
+.container1 {
+    margin: auto;
+    padding: auto;
+}
+
+p {
+    line-break: auto;
+    line-height: 2.5rem;
+    text-align: left;
+    font-size: 24px;
 }
