@@ -1,0 +1,26 @@
+{
+  "name": "Update-Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanFue282/Update-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanFue282/Update-Portfolio/issues"
+  },
+  "homepage": "https://github.com/HanFue282/Update-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.0.6",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}

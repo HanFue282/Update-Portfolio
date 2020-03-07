@@ -5,14 +5,7 @@
 
 # Codes to use
 
--Recommeded to use and optional codes
-+HTML
-+Javascript
-+CSS & Bootstrap
-+Jquery
-+AJAX (for some reason)
-+APIs
-+Moment.js
+
 
 # Image source(s)
 -https://www.pinterest.com/pin/478366791661324121/
